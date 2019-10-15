@@ -1,0 +1,472 @@
+08/28/2019 12:46:23 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:46:23 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:46:26 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:46:26 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:46:29 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:46:29 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:46:29 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:46:38 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 12:46:39 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:46:39 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:47:06 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:47:06 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:47:09 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:47:09 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:47:12 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:47:12 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:47:12 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:47:23 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 12:47:25 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:47:25 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:49:12 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:49:13 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:49:13 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:49:13 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:49:13 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:49:14 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:49:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:49:14 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:49:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:49:14 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element present with locator: createUserInputinput locatorType: id
+08/28/2019 12:49:17 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:49:17 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:49:18 PM - LoginPage - INFO: Clicked on element with locator: createUserInputinput locatorType: id
+08/28/2019 12:49:18 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:49:18 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:49:18 PM - LoginPage - INFO: Element found with locator: prc-custom-textarea and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Sent data on element with locator: prc-custom-textarea locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element found with locator: keyboard-enter-button and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Clicked on element with locator: keyboard-enter-button locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element found with locator: create-user-btn and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Clicked on element with locator: create-user-btn locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element found with locator: tile-3 and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Clicked on element with locator: tile-3 locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element found with locator: btn-system-selection-control-38 and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Clicked on element with locator: btn-system-selection-control-38 locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Element found with locator: finish-selecting-default-vocabulary and  locatorType: id
+08/28/2019 12:49:19 PM - LoginPage - INFO: Clicked on element with locator: finish-selecting-default-vocabulary locatorType: id
+08/28/2019 12:53:34 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:53:35 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:53:36 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:53:39 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:53:39 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:53:42 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:53:42 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:53:42 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:53:42 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:53:42 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:53:44 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:53:44 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:53:44 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:54:18 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:54:28 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:54:29 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:54:29 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:54:29 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:54:48 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:54:54 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element present with locator: createUserInputinput locatorType: id
+08/28/2019 12:54:57 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:54:57 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:54:58 PM - LoginPage - INFO: Clicked on element with locator: createUserInputinput locatorType: id
+08/28/2019 12:54:58 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:54:58 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:54:58 PM - LoginPage - INFO: Element found with locator: prc-custom-textarea and  locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Sent data on element with locator: prc-custom-textarea locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Element found with locator: keyboard-enter-button and  locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Clicked on element with locator: keyboard-enter-button locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Element found with locator: create-user-btn and  locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Clicked on element with locator: create-user-btn locatorType: id
+08/28/2019 12:54:59 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:55:00 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:55:00 PM - LoginPage - INFO: Element found with locator: tile-3 and  locatorType: id
+08/28/2019 12:55:00 PM - LoginPage - INFO: Clicked on element with locator: tile-3 locatorType: id
+08/28/2019 12:55:00 PM - LoginPage - INFO: Element found with locator: btn-system-selection-control-38 and  locatorType: id
+08/28/2019 12:55:00 PM - LoginPage - INFO: Clicked on element with locator: btn-system-selection-control-38 locatorType: id
+08/28/2019 12:55:00 PM - LoginPage - INFO: Element found with locator: finish-selecting-default-vocabulary and  locatorType: id
+08/28/2019 12:55:00 PM - LoginPage - INFO: Clicked on element with locator: finish-selecting-default-vocabulary locatorType: id
+08/28/2019 12:55:02 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:55:02 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:55:26 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:55:28 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:55:28 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:55:28 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:55:28 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:55:29 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:55:29 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:55:29 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:55:29 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:55:29 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:55:32 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:55:32 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:55:35 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:55:35 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:55:35 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:55:35 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:55:35 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:55:36 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:55:36 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:55:36 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:55:36 PM - HomePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:55:36 PM - HomePage - INFO: Element appeared on the web page
+08/28/2019 12:55:39 PM - HomePage - INFO: Element not found with locator: //span[contains(text(),'are')] and  locatorType: xpath
+08/28/2019 12:55:39 PM - HomePage - INFO: Cannot click on the element with locator: //span[contains(text(),'are')] locatorType: xpath
+08/28/2019 12:55:39 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'is')] and  locatorType: xpath
+08/28/2019 12:55:40 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'is')] locatorType: xpath
+08/28/2019 12:56:52 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 12:56:54 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 12:56:58 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 12:56:58 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 12:57:01 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 12:57:01 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 12:57:01 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 12:57:01 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 12:57:01 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 12:57:02 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 12:57:02 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 12:57:02 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 12:57:02 PM - HomePage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+08/28/2019 12:57:02 PM - HomePage - INFO: Element appeared on the web page
+08/28/2019 12:57:05 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'are')] and  locatorType: xpath
+08/28/2019 12:57:05 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'are')] locatorType: xpath
+08/28/2019 12:57:05 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'is')] and  locatorType: xpath
+08/28/2019 12:57:06 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'is')] locatorType: xpath
+08/28/2019 01:08:40 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:08:42 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:08:45 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:08:45 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:08:48 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:08:48 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:08:48 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:08:48 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:08:48 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:08:49 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:08:49 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:08:49 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:08:49 PM - HomePage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+08/28/2019 01:08:49 PM - HomePage - INFO: Element appeared on the web page
+08/28/2019 01:08:52 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'are')] and  locatorType: xpath
+08/28/2019 01:08:53 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'are')] locatorType: xpath
+08/28/2019 01:08:53 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'is')] and  locatorType: xpath
+08/28/2019 01:08:53 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'is')] locatorType: xpath
+08/28/2019 01:09:45 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:09:47 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:09:50 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:09:50 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:09:53 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:09:53 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:09:53 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:09:53 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:09:53 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:09:54 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:09:54 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:09:54 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:12:00 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:02 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:12:05 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:12:05 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:12:13 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:12:15 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:12:18 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:12:18 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:12:21 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:12:21 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:12:21 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:12:21 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:12:21 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:12:22 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:12:22 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:12:22 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:12:22 PM - HomePage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+08/28/2019 01:12:22 PM - HomePage - INFO: Element appeared on the web page
+08/28/2019 01:12:25 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'are')] and  locatorType: xpath
+08/28/2019 01:12:26 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'are')] locatorType: xpath
+08/28/2019 01:12:26 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'is')] and  locatorType: xpath
+08/28/2019 01:12:26 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'is')] locatorType: xpath
+08/28/2019 01:12:37 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:12:37 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:12:40 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:12:40 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:12:40 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:12:51 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 01:12:54 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:12:54 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:14:15 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:14:16 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:14:16 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:14:16 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:14:16 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:14:17 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:14:17 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:14:17 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:14:17 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:14:17 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:14:20 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:14:20 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:14:23 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:14:23 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:14:23 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:14:23 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:14:23 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:14:24 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:14:24 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:14:24 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:15:12 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:15:14 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:15:17 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:15:17 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:15:20 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:15:20 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:15:20 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:15:20 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:15:20 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:15:22 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:15:22 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:15:22 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 01:35:12 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:35:23 PM - LoginPage - INFO: Element not appeared on the web page
+08/28/2019 01:35:26 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:35:26 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:35:27 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:35:27 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 01:35:28 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 01:35:28 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 01:36:17 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 01:36:23 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element present with locator: createUserInputinput locatorType: id
+08/28/2019 01:36:26 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:36:26 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 01:36:27 PM - LoginPage - INFO: Clicked on element with locator: createUserInputinput locatorType: id
+08/28/2019 01:36:27 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:36:27 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:36:27 PM - LoginPage - INFO: Element found with locator: prc-custom-textarea and  locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Sent data on element with locator: prc-custom-textarea locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Element found with locator: keyboard-enter-button and  locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Clicked on element with locator: keyboard-enter-button locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Element found with locator: create-user-btn and  locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Clicked on element with locator: create-user-btn locatorType: id
+08/28/2019 01:36:28 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 01:36:28 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 01:36:28 PM - LoginPage - INFO: Element found with locator: tile-3 and  locatorType: id
+08/28/2019 01:36:29 PM - LoginPage - INFO: Clicked on element with locator: tile-3 locatorType: id
+08/28/2019 01:36:29 PM - LoginPage - INFO: Element found with locator: btn-system-selection-control-38 and  locatorType: id
+08/28/2019 01:36:29 PM - LoginPage - INFO: Clicked on element with locator: btn-system-selection-control-38 locatorType: id
+08/28/2019 01:36:29 PM - LoginPage - INFO: Element found with locator: finish-selecting-default-vocabulary and  locatorType: id
+08/28/2019 01:36:29 PM - LoginPage - INFO: Clicked on element with locator: finish-selecting-default-vocabulary locatorType: id
+08/28/2019 01:36:31 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 01:36:31 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/28/2019 02:07:57 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:08:00 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element present with locator: createUserInputinput locatorType: id
+08/28/2019 02:08:03 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:08:03 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/28/2019 02:08:04 PM - LoginPage - INFO: Clicked on element with locator: createUserInputinput locatorType: id
+08/28/2019 02:08:04 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:08:04 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:08:04 PM - LoginPage - INFO: Element found with locator: prc-custom-textarea and  locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Sent data on element with locator: prc-custom-textarea locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Element found with locator: keyboard-enter-button and  locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Clicked on element with locator: keyboard-enter-button locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Element found with locator: create-user-btn and  locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Clicked on element with locator: create-user-btn locatorType: id
+08/28/2019 02:08:05 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:08:06 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:08:06 PM - LoginPage - INFO: Element found with locator: tile-3 and  locatorType: id
+08/28/2019 02:08:06 PM - LoginPage - INFO: Clicked on element with locator: tile-3 locatorType: id
+08/28/2019 02:08:06 PM - LoginPage - INFO: Element found with locator: btn-system-selection-control-38 and  locatorType: id
+08/28/2019 02:08:06 PM - LoginPage - INFO: Clicked on element with locator: btn-system-selection-control-38 locatorType: id
+08/28/2019 02:08:06 PM - LoginPage - INFO: Element found with locator: finish-selecting-default-vocabulary and  locatorType: id
+08/28/2019 02:08:06 PM - LoginPage - INFO: Clicked on element with locator: finish-selecting-default-vocabulary locatorType: id
+08/28/2019 02:08:09 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 02:08:09 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/28/2019 02:09:44 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/28/2019 02:09:46 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/28/2019 02:09:50 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/28/2019 02:09:50 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/28/2019 02:09:53 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/28/2019 02:09:53 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/28/2019 02:09:53 PM - LoginPage - INFO: Element found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/28/2019 02:09:53 PM - LoginPage - INFO: Clicked on element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/28/2019 02:09:53 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/28/2019 02:09:55 PM - LoginPage - INFO: Element appeared on the web page
+08/28/2019 02:09:55 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/28/2019 02:09:55 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/29/2019 12:52:37 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/29/2019 12:52:38 PM - LoginPage - INFO: Element appeared on the web page
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element present with locator: agree locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Element found with locator: agree and  locatorType: id
+08/29/2019 12:52:39 PM - LoginPage - INFO: Clicked on element with locator: agree locatorType: id
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element present with locator: createUserInputinput locatorType: id
+08/29/2019 12:52:42 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element appeared on the web page
+08/29/2019 12:52:42 PM - LoginPage - INFO: Element found with locator: createUserInputinput and  locatorType: id
+08/29/2019 12:52:43 PM - LoginPage - INFO: Clicked on element with locator: createUserInputinput locatorType: id
+08/29/2019 12:52:43 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/29/2019 12:52:43 PM - LoginPage - INFO: Element appeared on the web page
+08/29/2019 12:52:43 PM - LoginPage - INFO: Element found with locator: prc-custom-textarea and  locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Sent data on element with locator: prc-custom-textarea locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element found with locator: keyboard-enter-button and  locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Clicked on element with locator: keyboard-enter-button locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element found with locator: create-user-btn and  locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Clicked on element with locator: create-user-btn locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element appeared on the web page
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element found with locator: tile-3 and  locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Clicked on element with locator: tile-3 locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element found with locator: btn-system-selection-control-38 and  locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Clicked on element with locator: btn-system-selection-control-38 locatorType: id
+08/29/2019 12:52:44 PM - LoginPage - INFO: Element found with locator: finish-selecting-default-vocabulary and  locatorType: id
+08/29/2019 12:52:45 PM - LoginPage - INFO: Clicked on element with locator: finish-selecting-default-vocabulary locatorType: id
+08/29/2019 12:52:47 PM - LoginPage - INFO: Element found with locator: .vocabulary-grid and  locatorType: css
+08/29/2019 12:52:47 PM - LoginPage - INFO: Element present with locator: .vocabulary-grid locatorType: css
+08/30/2019 05:20:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/30/2019 05:20:55 PM - LoginPage - INFO: Element not appeared on the web page
+08/30/2019 05:20:55 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/30/2019 05:20:55 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/30/2019 05:21:04 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/30/2019 05:21:14 PM - LoginPage - INFO: Element not appeared on the web page
+08/30/2019 05:21:17 PM - LoginPage - INFO: Element not found with locator: agree and  locatorType: id
+08/30/2019 05:21:17 PM - LoginPage - INFO: Element not present with locator: agree locatorType: id
+08/30/2019 05:21:20 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/30/2019 05:21:20 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/30/2019 05:21:23 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/30/2019 05:21:23 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/30/2019 05:21:23 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/30/2019 05:21:34 PM - LoginPage - INFO: Element not appeared on the web page
+08/30/2019 05:21:37 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/30/2019 05:21:37 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
+08/30/2019 05:21:37 PM - HomePage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+08/30/2019 05:22:09 PM - HomePage - INFO: Element not appeared on the web page
+08/30/2019 05:22:12 PM - HomePage - INFO: Element not found with locator: //span[contains(text(),'are')] and  locatorType: xpath
+08/30/2019 05:22:12 PM - HomePage - INFO: Cannot click on the element with locator: //span[contains(text(),'are')] locatorType: xpath
+08/30/2019 05:22:12 PM - HomePage - INFO: Element found with locator: //span[contains(text(),'is')] and  locatorType: xpath
+08/30/2019 05:22:12 PM - HomePage - INFO: Clicked on element with locator: //span[contains(text(),'is')] locatorType: xpath
+08/30/2019 05:22:23 PM - LoginPage - INFO: Element not found with locator: createUserInputinput and  locatorType: id
+08/30/2019 05:22:23 PM - LoginPage - INFO: Element not present with locator: createUserInputinput locatorType: id
+08/30/2019 05:22:26 PM - LoginPage - INFO: Element not found with locator: //*[contains(text(),'blablaUser')] and  locatorType: xpath
+08/30/2019 05:22:26 PM - LoginPage - INFO: Cannot click on the element with locator: //*[contains(text(),'blablaUser')] locatorType: xpath
+08/30/2019 05:22:26 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/30/2019 05:22:32 PM - LoginPage - INFO: Element not appeared on the web page
+08/30/2019 05:22:32 PM - LoginPage - INFO: Element not found with locator: .vocabulary-grid and  locatorType: css
+08/30/2019 05:22:32 PM - LoginPage - INFO: Element not present with locator: .vocabulary-grid locatorType: css
